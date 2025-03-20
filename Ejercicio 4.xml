@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Samuel]
+Curso: [DAW]
+Fecha: [20/06/2006]
+Ejercicio: [Ejercicio 4]
+-->
+<empresa>
+    <persona>
+    <nombre>Ana</nombre>
+    <apellido>Garcia</apellido>
+    <edad>30</edad>
+    <departamento>ventas</departamento>
+    <cargo>Ejecutivo de ventas</cargo>
+    </persona>
+    <persona>
+    <nombre>Luis</nombre>
+    <apellido>Rodríguez</apellido>
+    <edad>45</edad>
+    <departamento>Finanzas</departamento>
+    <cargo>Analista financiero</cargo>
+    </persona>
+    <persona>
+    <nombre>María</nombre>
+    <apellido>López</apellido>
+    <edad>28</edad>
+    <departamento>Marketing</departamento>
+    <cargo>Especialista en redes sociales</cargo>
+    </persona>
+</empresa>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Samuel]
+Curso: [DAW]
+Fecha: [20/06/2006]
+Ejercicio: [Ejercicio 2]
+-->
+<HechosHistoricos>
+    <DescripciónDeCadaHecho ="IBM da a conocer el PC"></DescripciónDeCadaHecho>
+    <Fecha>
+        <día>12</día>
+        <mes>8</mes>
+        <año>1981</año>
+    </Fecha>
+    <DescripciónDeCadaHecho="Se funda Google"></DescripciónDeCadaHecho>
+    <Fecha>
+        <día>4</día>
+        <mes>9</mes>
+        <año>1998</año>
+    </Fecha>
+    <DescripciónDeCadaHecho="Se funda Facebook"></DescripciónDeCadaHecho>
+    <Fecha>
+        <día>4</día>
+        <mes>2</mes>
+        <año>2004</año>
+    </Fecha>
+</HechosHistoricos>

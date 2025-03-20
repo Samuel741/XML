@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Samuel]
+Curso: [DAW]
+Fecha: [20/06/2006]
+Ejercicio: [Ejercicio 3]
+-->
+<libros>
+    <libro>
+    <titulo>Los futbolisimos 1</titulo>
+    <autor>Roberto Santiago</autor>
+    <año-de-publicación>2013</año-de-publicación>
+    </libro>
+    <libro>
+    <titulo>Diario de Greg</titulo>
+    <autor>Jeff Kinney</autor>
+    <año-de-publicación>2007</año-de-publicación>
+    </libro>
+    <libro>
+    <titulo>Mortadelo y Filemon</titulo>
+    <autor>Francisco Ibáñez</autor>
+    <año-de-publicación>1936</año-de-publicación>
+    </libro>
+    <libro>
+    <titulo>El Rulas </titulo>
+    <autor>Ruben Sanchez</autor>
+    <año-de-publicación>2023</año-de-publicación>
+    </libro>
+</libros>
