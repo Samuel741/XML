@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciudad [
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT continente (#PCDATA)>
+]>
+<ciudad>
+    <nombre>Madrid</nombre>
+    <pais>España</pais>
+    <continente>Europa</continente>
+</ciudad>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE marcadores SYSTEM "marcadores.dtd" [
+<!ELEMENT marcadores (pagina)*>
+<!ELEMENT pagina (nombre, descripcion, url)>
+]>
+<marcadores>
+<pagina>
+    <nombre>google</nombre>
+    <descripcion>pagina de buscador.</descripcion>
+    <url>https://www.google.com/?hl=es</url>
+</pagina>
+<pagina>
+    <nombre>getafe cf</nombre>
+    <descripcion>pagina oficila Getafe CF.</descripcion>
+    <url>https://www.getafecf.com/</url>
+</pagina>
+<pagina>
+    <nombre>W3C</nombre>
+    <descripcion>World Wide Web Consortium.</descripcion>
+    <url>http://www.w3.org/</url>
+</pagina>
+</marcadores>

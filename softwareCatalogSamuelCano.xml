@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Samuel]
+Curso: [DAW]
+Fecha: [20/06/2006]
+Ejercicio: [Ejercicio 1]
+-->
+<catalogo>
+    <os>
+        <nombre>Windows 11</nombre>
+        <version>21H2</version>
+        <desarrollador>Microsoft</desarrollador>
+        <url>https://www.microsoft.com/windows</url>
+    </os>
+    <os>
+        <nombre>Ubuntu</nombre>
+        <version>22.04</version>
+        <desarrollador>Canonical</desarrollador>
+        <url>https://ubuntu.com/</url>
+    </os>
+    <os>
+        <nombre>macOS Ventura</nombre>
+        <version>13.0</version>
+        <desarrollador>Apple</desarrollador>
+        <url>https://www.apple.com/macos/</url>
+    </os>
+    <office>
+        <nombre>Microsoft Word</nombre>
+        <version>2021</version>
+        <desarrollador>Microsoft</desarrollador>
+        <url>https://www.microsoft.com/word</url>
+    </office>
+    <office>
+        <nombre>LibreOffice Writer</nombre>
+        <version>7.5</version>
+        <desarrollador>The Document Foundation</desarrollador>
+        <url>https://www.libreoffice.org/</url>
+    </office>
+    <office>
+        <nombre>Google Docs</nombre>
+        <version>Web</version>
+        <desarrollador>Google</desarrollador>
+        <url>https://docs.google.com/</url>
+    </office>
+</catalogo>
